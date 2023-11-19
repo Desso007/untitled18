@@ -11,7 +11,7 @@ public class task6test {
 
         Map<Integer, String> knownPorts = getKnownPorts();
 
-        // Выводим заголовок таблицы
+      
         System.out.printf("%-8s%-8s%-30s\n", "Протокол", "Порт", "Сервис");
 
         // Проверяем каждый порт в диапазоне от 0 до 49151

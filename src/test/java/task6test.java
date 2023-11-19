@@ -8,7 +8,7 @@ import java.util.Map;
 public class task6test {
 
     public static void main(String[] args) {
-        // Получаем известные порты и соответствующие им сервисы
+
         Map<Integer, String> knownPorts = getKnownPorts();
 
         // Выводим заголовок таблицы
